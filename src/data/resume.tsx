@@ -91,7 +91,7 @@ export const DATA = {
       href: "https://rvitm.edu.in/",
       degree: "B.E in Information Science & Engineering",
       logoUrl: "/rvitm-logo.png",
-      start: "Jan 2021",
+      start: "Nov 2021",
       end: "Dec 2025",
       description: "GPA: 8.2\nRelevant Coursework: Database Management Systems, Software Engineering, Web Technologies, Cloud Computing"
     },
