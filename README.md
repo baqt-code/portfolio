@@ -1,5 +1,11 @@
 <div align="center">
 <img alt="Portfolio" src="https://github.com/ba1t-code/portfolio/assets/16860528/57ffca81-3f0a-4425-b31d-094f61725455" width="90%">
+
+## 🎥 Preview Video
+<video width="90%" controls>
+  <source src="https://github.com/ba1t-code/portfolio/raw/main/public/preview.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 </div>
 
 # Portfolio [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fba1t-code%2Fportfolio)
